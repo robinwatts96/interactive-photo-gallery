@@ -1,3 +1,4 @@
+// Run Baguette Box
 baguetteBox.run('.gallery', {
   buttons: 'auto',
   wrapAround: true,
@@ -5,7 +6,6 @@ baguetteBox.run('.gallery', {
 });
 
 // search field
-
 let search = $(".search-bar");  
 let imgs = $("a");           
 
